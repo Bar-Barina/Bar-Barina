@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bar Barina</h1>
-<h3 align="center">A passionate Full Stack | Frontend web developer from Israel</h3>
+<h3 align="center">A passionate Full Stack | Frontend developer from Israel</h3>
 <img align="right" alt="Coding" width="400" margin="10" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bar-barina&label=Profile%20views&color=0e75b6&style=flat" alt="bar-barina" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bar_barina_" target="blank"><img src="https://img.shields.io/twitter/follow/bar_barina_?logo=twitter&style=for-the-badge" alt="bar_barina_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **itsbarbarina@gmail.com**
 
